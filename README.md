@@ -6,3 +6,4 @@ The project was made as an university homework in 2 parts: <br>
 
 
 ## UML design
+![IMG](UML_Diagram.png)
